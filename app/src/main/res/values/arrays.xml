@@ -1,0 +1,10 @@
+<resources>
+
+    <string-array name="usage">
+        <item>Memory usage is currently high</item>
+        <item>Memory usage is currently normal</item>
+        <item>Memory usage is currently low</item>
+        <item>Memory usage is currently low</item>
+    </string-array>
+
+</resources>

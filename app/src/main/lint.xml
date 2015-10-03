@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress XmlUnboundNsPrefix -->
+<lint>
+    <issue id="UnusedResources">
+        <ignore path="res/drawable-xhdpi/i0.png" />
+    </issue>
+
+    <issue id="AndroidLintUnusedResources">
+        <ignore path="res/drawable-xhdpi/i0.png" />
+    </issue>
+    <issue id="AndroidLintIconColors">
+        <ignore path="./res/drawable-xhdpi/i0.png" />
+    </issue>
+</lint>
