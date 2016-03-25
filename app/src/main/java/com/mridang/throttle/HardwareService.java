@@ -140,7 +140,7 @@ public class HardwareService extends Service {
         hndNotifier.removeMessages(1);
         hndNotifier.removeMessages(2);
         mgrNotifications.cancel(ID);
-        hndNotifier.closeFile();
+        hndNotifier.destroy();
     }
 
     /**
